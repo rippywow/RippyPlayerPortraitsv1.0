@@ -1,0 +1,9 @@
+<Ui>
+	<Script file="Main.lua" />
+	<Frame name='CustomPlayerPortraitFrame' hidden='true'>
+		<Scripts>
+			<OnLoad function='RippyPlayerPortraitFrame_OnLoad' />
+			<OnEvent function='RippyPlayerPortraitFrame_OnEvent' />
+		</Scripts>
+	</Frame>
+</Ui>
