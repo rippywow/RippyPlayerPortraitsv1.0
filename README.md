@@ -4,12 +4,11 @@
 
 
 Place /RippyPlayerPortraits/ in your /Addons/ Folder
+Made for classic(1.13.x) but should work with every version of WoW possible.
 
 ## How to use
 
-1)Place cursor over Player Portrait Frame.
-
-2) Use your mousewheel up/down to change through the options.
+Place cursor on player frame, scroll up and down on mousewheel.
 
 ## How do I make my own portraits?
 Unlucky
