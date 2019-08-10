@@ -1,6 +1,6 @@
 # RippyPlayerPortraitsv1.0
 
-<img src=images/PlayerPortraitExample.png width=700>
+<img src=images/PlayerPortraitExample.png width=500>
 
 Place /RippyPlayerPortraits/ in your /Addons/ Folder
 
