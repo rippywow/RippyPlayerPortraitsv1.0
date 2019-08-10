@@ -2,7 +2,7 @@
 
 <img src=images/PlayerPortraitExample.png width=500>
 
-Place /RippyPlayerPortraits/ in your /Addons/ Folder
+Place /RippyPlayerPortrait/ in your /Addons/ Folder
 
 Made for classic(1.13.x) but should work with every version of WoW possible.
 
