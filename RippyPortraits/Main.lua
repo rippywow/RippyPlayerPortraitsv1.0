@@ -1,4 +1,4 @@
-﻿local highestPortraitIndex = 12
+﻿local highestPortraitIndex = 13
 
 
 local defaultPortraitIndex = 0
