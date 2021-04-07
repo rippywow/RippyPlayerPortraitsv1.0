@@ -16,7 +16,7 @@ Place cursor on player frame, scroll up and down on mousewheel.
 
 ## How do I make my own portraits?
 
-Unlucky
+Replace the TGA with your own
 
 ### Changelog
 
