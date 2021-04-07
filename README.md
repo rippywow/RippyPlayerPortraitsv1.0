@@ -1,4 +1,4 @@
-# RippyPlayerPortraitsv1.0
+# RippyPlayerPortraitsv1.1 (tbc)
 
 <img src=images/RippyPortrait.png width=500>
 
