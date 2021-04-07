@@ -1,4 +1,4 @@
-## Interface: 11302
+## Interface: 20501
 ## Title: Rippy Portraits
 ## Notes: Custom player portrait with class portraits for target/ToT
 ## Author: Rippy
